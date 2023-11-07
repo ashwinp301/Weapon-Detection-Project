@@ -55,4 +55,4 @@ MODEL_DIR = ROOT / 'runs'/'detect' / 'train' / 'weights'
 DETECTION_MODEL = MODEL_DIR / 'best.pt'
 
 # Webcam
-WEBCAM_PATH = 0
+WEBCAM_PATH = -1
